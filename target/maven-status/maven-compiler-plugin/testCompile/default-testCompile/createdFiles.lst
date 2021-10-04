@@ -1,0 +1,14 @@
+ups/api/dummy/PostReq.class
+ups/nj/stefdef/LoginStepDef.class
+ups/nj/myrunner/LoginRunner.class
+com/readExcel/TextFileReading.class
+ups/api/dummy/DeleteReq.class
+javaCodeTest/InterViewTest.class
+ups/api/dummy/PutReq.class
+javaCodeTest/JavaDuplicateNumber.class
+com/readExcel/ReadExcelData.class
+com/readExcel/NewTestLogin.class
+ups/nj/hooks/Hooks.class
+com/readExcel/TestNGDataProvider.class
+ups/api/dummy/GetReq.class
+com/readExcel/CrossBrowserTesting.class
